@@ -18,8 +18,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'MS_LINKS2023')
-API_ID = int(environ.get('API_ID', '23456403'))
-API_HASH = environ.get('API_HASH', '30b799ae05e2ee21a295b800b129e181')
+API_ID = int(environ.get('API_ID', '27542221'))
+API_HASH = environ.get('API_HASH', '625a3ec9de86209f7dc99a1ed9b8baae')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
